@@ -1,0 +1,24 @@
+{
+  "name": "decido",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "live-server public/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sksundram/decido.git"
+  },
+  "keywords": [],
+  "author": "Shailesh Kumar <shailesh.sundram@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sksundram/decido/issues"
+  },
+  "homepage": "https://github.com/sksundram/decido#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
